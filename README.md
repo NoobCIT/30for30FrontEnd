@@ -18,3 +18,7 @@ but for some reason is a little buggy when it comes to normal layout vs mobile l
 [Day 4: Products](https://tranquil-crag-77456.herokuapp.com/)
 
 Started to learn CSS Grid.  I noticed CSS Grid can be a little buggy in Chrome based off my experiences and readings.  The site works fine in Firefox, but is a little buggy in Chrome.
+
+[Day 5: Products](https://thawing-plateau-40704.herokuapp.com/)
+
+I think I'm starting to like flexbox more.  Decided to start something new going back to flexbox.
