@@ -22,3 +22,7 @@ Started to learn CSS Grid.  I noticed CSS Grid can be a little buggy in Chrome b
 [Day 5: Products](https://thawing-plateau-40704.herokuapp.com/)
 
 I think I'm starting to like flexbox more.  Decided to start something new going back to flexbox.
+
+[Day 6: Author](https://secure-plateau-31217.herokuapp.com/)
+
+Learned to make a drop down menu.
