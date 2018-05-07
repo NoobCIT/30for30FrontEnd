@@ -26,3 +26,7 @@ I think I'm starting to like flexbox more.  Decided to start something new going
 [Day 6: Author](https://secure-plateau-31217.herokuapp.com/)
 
 Learned to make a drop down menu.
+
+[Day 7: Movie](https://warm-fortress-43025.herokuapp.com/)
+
+Learned to embed video clips.
