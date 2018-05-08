@@ -30,3 +30,7 @@ Learned to make a drop down menu.
 [Day 7: Movie](https://warm-fortress-43025.herokuapp.com/)
 
 Learned to embed video clips.
+
+[Day 8: TicTacToe](https://salty-inlet-59965.herokuapp.com/)
+
+Focused on functionality and just the basics to play.
