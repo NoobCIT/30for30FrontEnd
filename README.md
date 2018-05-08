@@ -34,3 +34,7 @@ Learned to embed video clips.
 [Day 8: TicTacToe](https://salty-inlet-59965.herokuapp.com/)
 
 Focused on functionality and just the basics to play.
+
+[Day 9: Todo](https://desolate-river-50809.herokuapp.com/)
+
+Made a todo list to practice more JavaScript!
