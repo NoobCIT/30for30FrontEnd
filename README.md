@@ -38,3 +38,7 @@ Focused on functionality and just the basics to play.
 [Day 9: Todo](https://desolate-river-50809.herokuapp.com/)
 
 Made a todo list to practice more JavaScript!
+
+[Day 10: Photographer](https://agile-reaches-84934.herokuapp.com/)
+
+A beautiful site for a photographer.
