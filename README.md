@@ -2,6 +2,10 @@
 
 I'm doing the 30days30sites challenge from this: https://www.subscribepage.com/30days30sites
 
+Note that these projects are deployed to Heroku, so it takes a while to load when you open them (that's the nature of Heroku conserving resources)!
+
+Along the way I made up my own projects or added some functionality to learn more about JavaScript.  You'll see projects using API's, incorporating Promises and Asynchronous actions as well as tests.
+
 [Day 1: Portfolio](https://desolate-tor-91462.herokuapp.com/)
 
 Just a made up portfolio page.  Never knew letter spacing and line height could make such a difference.
