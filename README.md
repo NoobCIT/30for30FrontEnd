@@ -50,3 +50,7 @@ Another beautiful site for service type applications.
 [Day 12: FoodAPI](https://fathomless-earth-74107.herokuapp.com/)
 
 Used the Zomato API to make my own 'Yelp' of food listings for San Francisco!
+
+[Day 13: PokemonAPI](https://radiant-waters-39870.herokuapp.com/)
+
+Used the Pokemon API to learn more about promises, asynchronous actions, and how to make multiple fetch calls and handle their responses.
