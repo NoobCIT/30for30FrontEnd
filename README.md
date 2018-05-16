@@ -19,7 +19,7 @@ but for some reason is a little buggy when it comes to normal layout vs mobile l
 
 Started to learn CSS Grid.  I noticed CSS Grid can be a little buggy in Chrome based off my experiences and readings.  The site works fine in Firefox, but is a little buggy in Chrome.
 
-[Day 5: Products](https://thawing-plateau-40704.herokuapp.com/)
+[Day 5: Restaurant](https://thawing-plateau-40704.herokuapp.com/)
 
 I think I'm starting to like flexbox more.  Decided to start something new going back to flexbox.
 
@@ -46,3 +46,7 @@ A beautiful site for a photographer.
 [Day 11: Services](https://fierce-hollows-50893.herokuapp.com/)
 
 Another beautiful site for service type applications.
+
+[Day 12: FoodAPI](https://fathomless-earth-74107.herokuapp.com/)
+
+Used the Zomato API to make my own 'Yelp' of food listings for San Francisco!
