@@ -59,3 +59,7 @@ Used the Zomato API to make my own 'Yelp' of food listings for San Francisco!
 
 Used the Pokemon API to learn more about promises, asynchronous actions, and how to make multiple fetch calls and handle their responses.  This tutorial shows how to use all those techniques:
 https://www.youtube.com/watch?v=SdBs0CX9MFg
+
+[Day 14: Jokes](https://fierce-shelf-88227.herokuapp.com/)
+
+A simple API for Chuck Norris jokes.  I used this to play around with fetches and promises.
