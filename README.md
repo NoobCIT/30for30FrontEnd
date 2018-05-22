@@ -63,3 +63,7 @@ https://www.youtube.com/watch?v=SdBs0CX9MFg
 [Day 14: Jokes](https://fierce-shelf-88227.herokuapp.com/)
 
 A simple API for Chuck Norris jokes.  I used this to play around with fetches and promises.
+
+[Day 15: PokemonAPITCG](https://stark-eyrie-30279.herokuapp.com/)
+
+Used this to practice making multiple fetch calls.
