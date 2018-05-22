@@ -71,3 +71,7 @@ Used this to practice making multiple fetch calls.
 [Day 16: Filter](https://infinite-garden-17328.herokuapp.com/)
 
 Practiced filtering through API data based on user input.
+
+[Day 17: MoreJS](https://stormy-beyond-32160.herokuapp.com/)
+
+Practice different DOM events and trying out localStorage.
