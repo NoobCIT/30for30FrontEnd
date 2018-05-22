@@ -67,3 +67,7 @@ A simple API for Chuck Norris jokes.  I used this to play around with fetches an
 [Day 15: PokemonAPITCG](https://stark-eyrie-30279.herokuapp.com/)
 
 Used this to practice making multiple fetch calls.
+
+[Day 16: Filter](https://infinite-garden-17328.herokuapp.com/)
+
+Practiced filtering through API data based on user input.
