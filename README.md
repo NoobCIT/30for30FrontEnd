@@ -75,3 +75,7 @@ Practiced filtering through API data based on user input.
 [Day 17: MoreJS](https://stormy-beyond-32160.herokuapp.com/)
 
 Practice different DOM events and trying out localStorage.
+
+[Day 18: React - Country Filter](https://dry-inlet-26353.herokuapp.com/)
+
+Started my journey to learning ReactJS.  The focus will be to build react projects from here on out to get used to the JS library.  It's quite different from what I'm used to.  Once again the focus is on learning react and not necessarily aesthetics and styling.
