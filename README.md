@@ -85,3 +85,5 @@ Started my journey to learning ReactJS.  The focus will be to build react projec
 Made a todo list in React.
 
 [Day 20: React - Data Visualization GDP](https://thawing-earth-22104.herokuapp.com/)
+
+Learned to use the D3.js library for data visualization stuff.
