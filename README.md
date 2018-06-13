@@ -87,3 +87,7 @@ Made a todo list in React.
 [Day 20: React - Data Visualization GDP](https://thawing-earth-22104.herokuapp.com/)
 
 Learned to use the D3.js library for data visualization stuff.
+
+[Day 21: React - GIF API](https://fathomless-ridge-29380.herokuapp.com/)
+
+Practiced APIs with GIPHY.
