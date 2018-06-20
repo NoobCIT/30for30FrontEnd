@@ -99,3 +99,7 @@ Made an object move with user input.
 [Day 23: React - Form](https://immense-retreat-36306.herokuapp.com/)
 
 Made a simple form using user input.
+
+[Day 24: React - TicTacToe](https://polar-retreat-40778.herokuapp.com/)
+
+Made TicTacToe and compared the difference to the one shown on Facebook tutorial.  Also added basic tests.
