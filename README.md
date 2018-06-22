@@ -102,4 +102,4 @@ Made a simple form using user input.
 
 [Day 24: React - TicTacToe](https://polar-retreat-40778.herokuapp.com/)
 
-Made TicTacToe and compared the difference to the one shown on Facebook tutorial.  Also added basic tests.
+Made TicTacToe using react.  Also added basic tests using Mocha, Chai, and Enzyme.
