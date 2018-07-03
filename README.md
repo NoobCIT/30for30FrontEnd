@@ -103,3 +103,7 @@ Made a simple form using user input.
 [Day 24: React - TicTacToe](https://polar-retreat-40778.herokuapp.com/)
 
 Made TicTacToe using react.  Also added basic tests using Mocha, Chai, and Enzyme.
+
+[Day 25: React - Connect Four](https://arcane-reef-23421.herokuapp.com/)
+
+Made Connect Four.
